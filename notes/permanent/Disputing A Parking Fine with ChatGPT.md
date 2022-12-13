@@ -6,9 +6,9 @@ summary: A use case for ChatGPT
 hide_cover_in_article: true
 ---
 
-This article covers a use case for [ChatGPT](https://chat.openai.com/), an exciting new product by [OpenAI](https://chat.openai.com/).
+This article covers a use case for [ChatGPT](https://chat.openai.com/), an exciting new product by [OpenAI](https://chat.openai.com/). Follow the discussion on Hacker News [here](https://news.ycombinator.com/item?id=33937753).
 
-At the time of writing, it's on the front page of Hacker News. Follow the discussion [here](https://news.ycombinator.com/item?id=33937753).
+Note that I recreated the prompt/response from ChatGPT for the post. See the footnote for details.
 
 ---
 <style>
@@ -62,5 +62,5 @@ ChatGPT is incredible -  I cannot believe how well this technology works. It's l
 ---
 
 <small>
-* I used ChatGPT from my phone and didn't screenshot the prompt, so I had to generate a new prompt/response for this blog post. It's similar enough that I'm sure it would work too.
+* I used OpenAI GPT Playground from my phone to generate the initial prompt/response, not the ChatGPT interface. The results from ChatGPT were recreated for the blog post and are nearly identical to what's returned in GPT Playground. I'm sure it would work equally as well.
 </small>
